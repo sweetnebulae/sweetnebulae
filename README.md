@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sweetnebulae
 - 👀 I’m interested in Data analysist and cloud architect
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me agungsedayu213@gmail.com
 
 <!---
