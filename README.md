@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sweetnebulae
-- 👀 I’m interested in Data analysist and cloud architect
-- 🌱 I’m currently learning python and java
-- 📫 How to reach me agungsedayu213@gmail.com
+I'm Agung Sedayu Septiawn, currently taking undgraduate program in physics at Institut Teknologi Sepuluh Nopember
+Beside my major, I'm taking another course on DevOps Engineering
 
 <!---
 sweetnebulae/sweetnebulae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
